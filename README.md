@@ -342,14 +342,14 @@ Use this description for your Unstop submission:
 
 ### Submission URL Format
 
-**GitHub Repository:**
+**Live Deployment:**
 ```
-https://github.com/YOUR_USERNAME/campuscode-rebuild
+https://campuscode-rebuild-smoky.vercel.app
 ```
 
-**Live Deployment (after Vercel deployment):**
+**Vercel Dashboard:**
 ```
-https://your-project-name.vercel.app
+https://vercel.com/siris-projects-3809a50c/campuscode-rebuild/G9pmMBbkUkxec3i2AmyZ4EEwqdX3
 ```
 
 ## 📞 Contact

@@ -224,9 +224,10 @@
   display: flex;
   justify-content: space-between;
   font-family: 'DM Mono', monospace;
-  font-size: 8px;
-  letter-spacing: 2px;
+  font-size: 10px;
+  letter-spacing: 6px;
   color: var(--muted);
+  text-transform: uppercase;
 }
 
 .hero-top-line i {
@@ -247,7 +248,7 @@
 .hero-label {
   font-family: 'DM Mono', monospace;
   font-size: 9px;
-  letter-spacing: 2px;
+  letter-spacing: 2.5px;
   color: var(--muted);
   margin-bottom: 20px;
 }

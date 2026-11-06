@@ -86,7 +86,7 @@
 .login-label {
   font-family: 'DM Mono', monospace;
   font-size: 10px;
-  letter-spacing: 2.5px;
+  letter-spacing: normal;
   color: var(--muted);
   margin-bottom: 20px;
 }

@@ -89,12 +89,11 @@ function Homepage() {
         </div>
 
         <div className="hero-top-line">
-          <span><i></i>THE DIGITAL HOME FOR STUDENT INNOVATION</span>
-          <span>CHENNAI · INDIA</span>
+          <span><i></i>CAMPUSCODE // 001 HOME FOR STUDENT INNOVATION</span>
+          <span>CHENNAI - INDIA</span>
         </div>
 
         <div className="hero-content">
-          <div className="hero-label">CAMPUSCODE / 001</div>
           <h1>BUILD<br /><span>COMPETE</span><br />SHIP.</h1>
           <div className="hero-description">
             <p>A digital arena for students<br />who don't just have ideas.<br />They build them.</p>

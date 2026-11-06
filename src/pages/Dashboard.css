@@ -85,7 +85,7 @@
 .nav-label {
   font-family: 'DM Mono', monospace;
   font-size: 8px;
-  letter-spacing: 2px;
+  letter-spacing: normal;
   color: var(--muted);
   margin-bottom: 16px;
 }
